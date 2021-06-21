@@ -28,3 +28,35 @@ ANIMATION ON MOUSE SECTION
     transform: translateY(-45px);
     }
 }
+
+/* ======================================
+ANIMATION ON MOUSE
+================================================== */
+#mouse-click{
+    animation: bounce 2s infinite;
+}
+
+@keyframes bounce{
+    0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+    }
+    40% {
+    transform: translateY(-55px);
+    }
+    60% {
+    transform: translateY(-45px);
+    }
+}
+/* ======================================
+HOME BANNER
+================================================== */
+#banner{
+    background: url(../assets/backgrounds/h_img.jpg);
+    background-size:cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height:auto;
+    padding-top:2%;
+    padding-bottom: 2%;
+}
