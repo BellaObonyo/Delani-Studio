@@ -136,3 +136,27 @@ Contact SECTION
     padding: 20px;
     margin-top: 20px;
 }
+
+#contact-form{
+    width: 60%;
+}
+
+.inputForm{
+    background: transparent;
+    outline: none;
+    box-sizing: none;
+    box-shadow: none;
+    border: 1px solid white;
+    color: white;
+
+}
+.inputForm:focus{
+    background: transparent;
+    outline: none;
+    box-shadow: none;
+    border: 1px solid white;
+    color: white;
+}
+
+.inputForm::placeholder{
+    color: white;
