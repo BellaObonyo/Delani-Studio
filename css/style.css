@@ -124,3 +124,15 @@ Portfolio SECTION
     font-size: 20px;
     padding-top: 30%;
   }
+  /* ======================================
+Contact SECTION
+================================================== */
+#contact{
+    background: url(../assets/backgrounds/c_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    margin-top: 20px;
+}
