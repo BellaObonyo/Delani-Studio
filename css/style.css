@@ -60,3 +60,28 @@ HOME BANNER
     padding-top:2%;
     padding-bottom: 2%;
 }
+
+.banner-title{
+    padding-top: 14%;
+}
+
+.mouse-click{
+    padding-top: 10%;
+}
+/* ======================================
+SERVICES SECTION
+================================================== */
+#services{
+    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url(../assets/backgrounds/s_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+#services-content{
+    width: 70%;
+    margin: 4em auto;
+    padding-top: 10%;
+}
