@@ -85,3 +85,17 @@ SERVICES SECTION
     margin: 4em auto;
     padding-top: 10%;
 }
+/* ======================================
+Who We Do SECTION
+================================================== */
+#design-text{
+    display: none;
+}
+
+#developement-text{
+    display: none;
+}
+
+#product-text{
+    display: none;
+}
