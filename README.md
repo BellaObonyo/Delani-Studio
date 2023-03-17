@@ -17,6 +17,5 @@ Vscode
 JQuery
 Javascript
 ## Support and contact details
-email: cynthia.obonyo@student.moringaschool.com
-cynthiabella.obonyo@gmail.com
-phone: +254792625077# Delani studio
+email: cynthiabella.obonyo@gmail.com
+
